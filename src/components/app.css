@@ -1,0 +1,18 @@
+.main-container{
+    background-color: lightblue; 
+    min-height: 100vh; 
+    padding: 15px; 
+}
+
+.main-title{
+    color: antiquewhite; 
+    font-size: 3.5 rem; 
+    text-align: center; 
+}
+
+.scrapbook-container{
+    margin: 10px auto; 
+    min-height: 85vh; 
+    position: relative; 
+    width: 80vw; 
+}
