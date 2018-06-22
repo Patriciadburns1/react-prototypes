@@ -1,0 +1,7 @@
+.light{
+    height: 30vh;
+    width: 30vh;
+    float: left;
+    margin: 2%;
+    border: 1px solid black;
+}
